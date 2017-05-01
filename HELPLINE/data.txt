@@ -1,0 +1,32 @@
+hi
+hello
+How can i reset my password?
+Check the main menu.There is an option for that.
+How to find stores?
+Open the main menu.click search for stores.Just type your address and hit Enter.
+How to play?
+Check the intructions menu.
+How can I get passcode?
+You can buy it from the store.
+How many players can join the game?
+Two player per match & 4 player per tournament.
+How can I recover my password?
+There is no option for that, you have to buy passcode again.
+How to control the ball?
+press "S" to pass and "D" to shoot the ball of jaw stick.
+How to sign up?
+Just click the sign up button from the main menu and put the required information. 
+How to sign in for two players match?
+Click sing up in the main menu.
+How can I play tournament?
+Sign up and click on the play tournamnet on the menu bar.
+How to tackle?
+Press "D".
+How to shoot?
+Press "D".
+Why there is no goal-keeper in the game?
+It is a bit complex task that should be covered in its updated version.
+Where do I find the match scores?
+At the end of the match.
+Is there any help centre?
+This is itself.
