@@ -1,0 +1,50 @@
+Motijheel
+Motijheel    3/4 A, Motijheel, Dhaka. Contact:01832323456.
+Malibag
+Malibag      1/5 B, Malibug, Dhaka 
+motipool
+motipool     6/6 B, Motipool, Dhaka
+Hatirpool
+Hatirpool    5/5 A, Hatirpool, Dhaka
+Arambug
+Arambug      4/9 B, Arambug, Dhaka
+Gulistan
+Gulistan     12/2 N, Gulistan, Dhaka
+Bailyroad
+Bailyroad    1/6 G, Bailyroad, Dhaka
+Azimpur
+Azimpur      4/4 F, Azimpur, Dhaka
+Tanvir
+Tanvir       0/0 *,Fullerroad, Dhaka
+Shuvo
+Shuvo        0/0 *,Jagannath Hall,DU
+Khulna
+Khulna       8/3 ,Khulna Sadar,Khulna
+Barisal
+Barisal      3/4, Barisal Sadar, Barisal
+Chittagong
+Chittagong   3/0, Chittagong Sadar,Chittagong
+Rangpur
+Rangpur      2/3 Rangpur Sadar, Rangpur
+Kustia
+Kustia       4/3 Kustia Sadar, Kustia
+Jamalpur
+Jamalpur     3/4 Jamalpur Sadar, Jamalpur
+Mymensingh
+Mymensingh     3/3 Mymensingh Sadar,Mymensingh
+Jalokathi
+Jalokathi      4/0 Jalokathi Sadar, Jalokathi
+Narayil
+Narayil        7/0 Narayil Sadar, Narayil
+Jessore
+Jessore       3/3  Jessore Sadar, Jessore
+Kurigram
+Kurigram      2/8  Kurigram Sadar, Kurigram
+Ponchogarh
+Ponchogarh    3/4  Ponchogarh Sadar, Ponchogarh
+Rajbari
+Rajbari       2/3  Rajbari Sadae, Rajbari
+Brahmanbaria 
+Brahmanbaria    3/4 Brahmanbaria Sadar,Brahmanbaria
+Syedpur
+Syedpur        3/3 Syedpur Sadar, Syedpur

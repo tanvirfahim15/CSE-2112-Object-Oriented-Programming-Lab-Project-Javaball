@@ -1,0 +1,190 @@
+Jessore
+Jessore     4/4 D, Jessore Sadar,Jessore. Contact:01934567543
+Brahmanbaria
+Brahmanbaria  3/4 W, Brahmanbaria Sadar, Brahmanbaria. Contact:01837234582
+Motijheel
+Motijheel    3/4 A, Motijheel, Dhaka. Contact:01735206742
+Malibag
+Malibag      1/5 B, Malibug, Dhaka.   Contact:01635206742 
+Hatirpool
+Hatirpool    5/5 A, Hatirpool, Dhaka.    Contact:01635206742
+Arambug
+Arambug      4/9 B, Arambug, Dhaka.     Contact:01735206642
+Gulistan
+Gulistan     12/2 N, Gulistan, Dhaka.    Contact:012235206742
+Bailyroad
+Bailyroad    1/6 G, Bailyroad, Dhaka.     Contact:01935206742
+Azimpur
+Azimpur      4/4 F, Azimpur, Dhaka.       Contact:01735206232
+Khulna
+Khulna       8/3 ,Khulna Sadar,Khulna.    Contact:01535206712
+Barisal
+Barisal      3/4, Barisal Sadar, Barisal.    Contact:01755206712
+Chittagong
+Chittagong   3/0, Chittagong Sadar,Chittagong.   Contact:01735206742
+Rangpur
+Rangpur      2/3 Rangpur Sadar, Rangpur.      Contact:01735206722
+Kustia
+Kustia       4/3 Kustia Sadar, Kustia.       Contact:01735206722
+Jamalpur
+Jamalpur     3/4 Jamalpur Sadar, Jamalpur.     Contact:01735226712
+Mymensingh
+Mymensingh     3/3 Mymensingh Sadar,Mymensingh.    Contact:01735236712
+Jalokathi
+Jalokathi      4/0 Jalokathi Sadar, Jalokathi.     Contact:01735246712
+Narayil
+Narayil        7/0 Narayil Sadar, Narayil.    Contact:01735236712
+Kurigram
+Kurigram      2/8  Kurigram Sadar, Kurigram.      Contact:01735203412
+Ponchogarh
+Ponchogarh    3/4  Ponchogarh Sadar, Ponchogarh.    Contact:01735666712
+Rajbari
+Rajbari       2/3  Rajbari Sadae, Rajbari.        Contact:017352023412
+Syedpur
+Syedpur        3/3 Syedpur Sadar, Syedpur.       Contact:01734506712	
+Dhamrai 
+Dhamrai      12/4  Dhamrai District,Dhaka.    Contact:01534234219
+Dohar 
+Dohar         1/2   Dohar Upazila,Dohar.	Contact:01534234219
+Keraniganj 
+Keraniganj      1/2 Keraniganj Upazila,Dhaka.	Contact:01534234219
+Nawabganj
+Nawabganj       1/2 Nawabganj Upazila,Dhaka.	Contact:01534234219
+Savar
+Savar  	      1/2 Savar Upazila,Dhaka             Contact:01534234219
+Gazipur
+Gazipur       1/4 Gazipur District, Dhaka	Contact:01534234219	
+Kaliakair 
+Kaliakair      1/2 Kaliakair District, Dhaka	Contact:01534234219
+Kaliganj 
+Kaliganj 	2/3 Kaliganj District, Dhaka    Contact:01756273783
+Kapasia
+Kapasia		1/2  Kapasia Upazila 	 Contact:01756273783
+Sreepur
+Sreepur		6/5  Sreepur Upazila 	 Contact:01756273783
+Gopalganj
+Gopalganj	9/4  Gopalganj District    Contact:01756273783
+Kashiani
+Kashiani	2/3  Kashiani Upazila	   Contact:01756273783
+Kotalipara
+Kotalipara	1/2  Kotalipara Upazila	   Contact:01756273783
+Muksudpur
+Muksudpur	0/4  Muksudpur Upazila     Contact:01756273783
+Tungipara
+Tungipara	2/3  Tungipara Upazila     Contact:01756273783
+Kishoreganj
+Kishoreganj	1/0  Kishoreganj District    Contact:01756273783
+Austagram
+Austagram	2/3  Austagram Upazila   	 Contact:01756273783
+Bajitpur
+Bajitpur	6/5  Bajitpur Upazila   	 Contact:01756273783
+Bhairab
+Bhairab		1/2  Bhairab Upazila  		 Contact:01756273783
+Hossainpur
+Hossainpur	9/3  Hossainpur Upazila   	  Contact:01756273783
+Itna
+Itna		9/0  Itna Upazila   		  Contact:01756273783
+Karimganj
+Karimganj	2/3  Karimganj Upazila   	     Contact:01756273783
+Katiadi
+Katiadi		9/4  Katiadi Upazila     	 Contact:01756273783
+Kishoreganj
+Kishoreganj     1/2  Kishoreganj Sadar Upazila 	    Contact:01756273783
+Kuliarchar
+Kuliarchar	3/3  Kuliarchar Upazila         Contact:01756273783
+Mithamain
+Mithamain	9/4  Mithamain Upazila		Contact:01756273783
+Nikli
+Nikli		1/2  Nikli Upazila		Contact:01756273783
+Pakundia
+Pakundia	4/2  Pakundia Upazila		Contact:01756273783
+Tarail
+Tarail		1/2  Tarail Upazila		Contact:01756273783
+Madaripur
+Madaripur	9/0  Madaripur District		Contact:01756273783
+Rajoir
+Rajoir		2/3  Rajoir Upazila		Contact:01756273783
+Madaripur
+Madaripur	4/4  Madaripur Sadar Upazila	Contact:01756273783
+Kalkini
+Kalkini		3/4  Kalkini Upazila		Contact:01756273783
+Shibchar
+Shibchar	2/3  Shibchar Upazila		Contact:01756273783
+Manikganj
+Manikganj	9/0  Manikganj District		Contact:01756273783
+Daulatpur
+Daulatpur	3/4  Daulatpur Upazila		Contact:01756273783
+Ghior
+Ghior		9/4  Ghior Upazila		Contact:01756273783
+Harirampur
+Harirampur	1/2  Harirampur Upazila		Contact:01756273783
+Manikgonj
+Manikgonj	34/3 Manikgonj Sadar Upazila	Contact:01756273783
+Saturia
+Saturia		3/4  Saturia Upazila		Contact:01756273783
+Shivalaya
+Shivalaya	9/4  Shivalaya Upazila		Contact:01756273783
+Singair
+Singair		3/4  Singair Upazila		Contact:01756273783
+Munshiganj
+Munshiganj	1/2  Munshiganj District	Contact:01756273783
+Gazaria
+Gazaria		3/4  Gazaria Upazila		Contact:01756273783
+Lohajang
+Lohajang	3/4  Lohajang Upazila		Contact:01756273783
+Munshiganj
+Munshiganj	4/5  Munshiganj Sadar Upazila	   Contact:01756273783
+Sirajdikhan
+Sirajdikhan	6/4  Sirajdikhan Upazila	Contact:01756273783
+Sreenagar
+Sreenagar	45/4 Sreenagar Upazila		Contact:01756273783
+Tongibari
+Tongibari	2/3  Tongibari Upazila	    Contact:01756273783
+Narayanganj
+Narayanganj	1/2  Narayanganj District	Contact:01756273783
+Araihazar
+Araihazar	6/7  Araihazar Upazila		Contact:01756273783
+Bandar
+Bandar		4/4  Bandar Upazila	Contact:01756273783
+Narayanganj
+Narayanganj     5/6  Narayanganj Sadar Upazila	   Contact:01756273783
+Rupganj
+Rupganj		5/4  Rupganj Upazila     Contact:01756273783
+Sonargaon
+Sonargaon	3/3  Sonargaon Upazila	  Contact:01756273783
+Rajbari
+Rajbari		3/4  Rajbari District	Contact:01756273783
+Baliakandi
+Baliakandi	3/3  Baliakandi Upazila    Contact:01756273783
+Goalandaghat
+Goalandaghat	2/3  Goalandaghat Upazila    Contact:01756273783
+Pangsha
+Pangsha		2/3  Pangsha Upazila      Contact:01756273783
+Rajbari
+Rajbari		2/3  Rajbari Sadar Upazila     Contact:01756273783
+Kalukhali
+Kalukhali	  3/4  Kalukhali Upazila      Contact:01756273783
+Shariatpur
+Shariatpur	 3/4  Shariatpur District	Contact:01756273783
+Bhedarganj
+Bhedarganj	4/4  Bhedarganj Upazila     Contact:01756273783
+Damudya
+Damudya		1/2  Damudya Upazila       Contact:01756273783
+Gosairhat
+Gosairhat	2/3  Gosairhat Upazila      Contact:01756273783
+Naria
+Naria		9/4  Naria Upazila       Contact:01756273783
+Shariatpur
+Shariatpur	6/7  Shariatpur Sadar Upazila      Contact:01756273783
+Zajira
+Zajira		4/5  Zajira Upazila      Contact:01756273783
+Shakhipur
+Shakhipur	0/3  Shakhipur Upazila    Contact:01756273783
+Faridpur
+Faridpur	5/6  Faridpur District	Contact:01756273783
+Alfadanga
+Alfadanga	3/4  Alfadanga Upazila	Contact:01756273783
+Bhanga
+Bhanga		1/2  Bhanga Upazila	Contact:01756273783
+Boalmur
+Boalmur		1/2  Boalmur Upazila	Contact:01756273783
